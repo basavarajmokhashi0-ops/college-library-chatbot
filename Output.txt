@@ -1,0 +1,104 @@
+COLLEGE LIBRARY CHATBOT
+=======================
+
+Welcome to the College Library!
+
+LIBRARY BOOK RECORDS
+--------------------
+
+1. Book ID: B001
+   Book Name: Java Programming
+   Author: Herbert Schildt
+   Department: CSE/ISE
+   Available Copies: 3
+
+2. Book ID: B002
+   Book Name: Database Management Systems
+   Author: Korth
+   Department: CSE/ISE
+   Available Copies: 2
+
+3. Book ID: B003
+   Book Name: Computer Networks
+   Author: Andrew S. Tanenbaum
+   Department: CSE/ISE
+   Available Copies: 4
+
+4. Book ID: B004
+   Book Name: Operating System Concepts
+   Author: Silberschatz
+   Department: CSE/ISE
+   Available Copies: 1
+
+5. Book ID: B005
+   Book Name: Data Structures
+   Author: Seymour Lipschutz
+   Department: CSE/ISE
+   Available Copies: 3
+
+6. Book ID: B006
+   Book Name: Software Engineering
+   Author: Ian Sommerville
+   Department: ISE
+   Available Copies: 2
+
+7. Book ID: B007
+   Book Name: Python Programming
+   Author: Mark Lutz
+   Department: CSE/ISE
+   Available Copies: 5
+
+8. Book ID: B008
+   Book Name: Machine Learning
+   Author: Tom M. Mitchell
+   Department: CSE/ISE
+   Available Copies: 2
+
+9. Book ID: B009
+   Book Name: Web Technology
+   Author: Uttam K. Roy
+   Department: ISE
+   Available Copies: 3
+
+10. Book ID: B010
+    Book Name: Computer Graphics
+    Author: Donald D. Hearn
+    Department: CSE/ISE
+    Available Copies: 1
+
+
+CHATBOT TEST
+============
+
+Student: Java Programming
+
+Bot:
+Book Found!
+Book ID: B001
+Book Name: Java Programming
+Author: Herbert Schildt
+Department: CSE/ISE
+Available Copies: 3
+Status: Available
+
+
+Student: B004
+
+Bot:
+Book Found!
+Book Name: Operating System Concepts
+Author: Silberschatz
+Available Copies: 1
+Status: Available
+
+
+Student: show all books
+
+Bot:
+The library catalogue contains 10 book records.
+
+
+Student: Exit
+
+Bot:
+Thank you for using the College Library Chatbot!
